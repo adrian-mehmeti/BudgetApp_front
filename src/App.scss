@@ -1,0 +1,20 @@
+.customBorder {
+  border-right: 1px solid grey;
+}
+.selectForm {
+  border: 1px solid rgb(13, 138, 241);
+}
+.nav-buttons {
+  color: white;
+
+  &:hover {
+    color: rgb(174, 174, 174);
+  }
+}
+body {
+  background-color: rgb(245, 245, 245);
+}
+.my-container {
+  padding-left: 0;
+  padding-right: 0;
+}
